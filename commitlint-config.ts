@@ -62,6 +62,7 @@ export const commitLint = {
         "plugins",
         "public",
         "readme",
+        "release",
         "security",
         "services",
         "stores",
