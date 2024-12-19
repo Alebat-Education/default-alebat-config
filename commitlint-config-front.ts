@@ -1,5 +1,5 @@
 // commitlint.config.js
-export const commitLint = {
+export const commitLintFront = {
   /*
    * Resolve and load @commitlint/config-conventional from node_modules.
    * Referenced packages must be installed
