@@ -1,6 +1,6 @@
 {
   "name": "@alebat/default-alebat-config",
-  "version": "0.8.0",
+  "version": "1.1.0",
   "description": "Linters configuration for Alebat",
   "type": "module",
   "main": "dist/index.js",
