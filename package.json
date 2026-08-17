@@ -1,6 +1,6 @@
 {
   "name": "@alebat/default-alebat-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Linters configuration for Alebat",
   "type": "module",
   "main": "dist/index.js",
@@ -19,6 +19,10 @@
     {
       "name": "Rodrigo Herranz",
       "github": "https://github.com/RodriAsime"
+    },
+    {
+      "name": "Eduardo López",
+      "github": "https://github.com/eduardolopsl"
     }
   ],
   "license": "ISC",
