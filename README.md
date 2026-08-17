@@ -106,16 +106,23 @@ Puedes añadir las configuraciones en `.vscode/settings.json` para aplicar forma
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/RodriAsime>
-            <img src=https://avatars.githubusercontent.com/u/131388988?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Miguel Ángel Durán/>
+            <img src=https://avatars.githubusercontent.com/u/131388988?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Rodrigo Herranz"/>
             <br />
             <sub style="font-size:14px"><b>Rodrigo Herranz</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/BorjaCuerva>
-            <img src=https://avatars.githubusercontent.com/u/77273470?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luciano Fernández/>
+            <img src=https://avatars.githubusercontent.com/u/77273470?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Borja Cuerva"/>
             <br />
             <sub style="font-size:14px"><b>Borja Cuerva</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/eduardolopsl>
+            <img src=https://avatars.githubusercontent.com/u/104857985?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt="Eduardo López"/>
+            <br />
+            <sub style="font-size:14px"><b>Eduardo López</b></sub>
         </a>
     </td>
 </tr>
