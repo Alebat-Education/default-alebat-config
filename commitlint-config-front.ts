@@ -34,6 +34,7 @@ export const commitLintFront = {
         "revert",
         "style",
         "test",
+        "debug"
       ],
     ],
   },
